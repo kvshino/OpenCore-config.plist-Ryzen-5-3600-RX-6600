@@ -1,5 +1,8 @@
 # OpenCore config.plist for Ryzen 5 3600 and Radeon RX 6600
-
+\
+**macOS version**: 12.6.2 (21G320) \
+**OpenCore version**: 0.8.7 \
+![Schermata 2022-12-17 alle 20 16 46](https://user-images.githubusercontent.com/116173534/208261511-312f4064-7178-434a-88d5-0720eb4dac8f.png)
 
 ## Verified Specification
 
@@ -13,8 +16,7 @@
 | Ethernet         | Realtek RTL8125B 2.5Gb Ethernet            |
 | OS Disk (NVMe)   | Samsung 980 Pro 1TB (PCIe 4.0)             |
 
-**macOS version**: 12.6.2 (21G320) \
-**OpenCore version**: 0.8.7
+
 
 
 ## Credits
