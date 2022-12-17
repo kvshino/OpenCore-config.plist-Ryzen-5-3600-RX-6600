@@ -2,10 +2,13 @@
 
 ![Schermata 2022-12-17 alle 20 16 46](https://user-images.githubusercontent.com/116173534/208261511-312f4064-7178-434a-88d5-0720eb4dac8f.png)
 
-This repo contains my config for a completely functioning Ryzentosh.
+This repo contains my config for a completely functioning Ryzentosh. 
+
+<br />
 
 **macOS version**: 12.6.2 (21G320) \
-**OpenCore version**: 0.8.7 \
+**OpenCore version**: 0.8.7 
+
 
 ## Verified Specification
 
