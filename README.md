@@ -22,6 +22,16 @@ This repo contains my config for a completely functioning Ryzentosh.
 | Ethernet         | Realtek RTL8125B 2.5Gb Ethernet            |
 | OS Disk (NVMe)   | Samsung 980 Pro 1TB (PCIe 4.0)             |
 
+## Benchmarks
+
+- ### GeekBench 5
+  - [CPU](https://browser.geekbench.com/v5/cpu/19359807)
+  - [GPU OpenCL](https://browser.geekbench.com/v5/compute/6087483)
+  - [GPU Metal](https://browser.geekbench.com/v5/compute/6087483)
+
+- ### BlackMagic Disk Speed Test
+  <img src="https://user-images.githubusercontent.com/116173534/208263482-32fe12f3-9fe4-469d-8751-f3b0e9c49801.png" width=50% height=50%>
+
 
 ## Screenshots
 <img src="https://github.com/kvshino/OpenCore-config.plist-Ryzen-5-3600-RX-6600/blob/main/Screenshots/Schermata%202022-12-17%20alle%2020.19.09.png" width=75% height=75%>
