@@ -26,7 +26,7 @@ This repo contains my config for a completely functioning Ryzentosh.
 
 - ### GeekBench 5
   - [CPU](https://browser.geekbench.com/v5/cpu/19359807)
-  - [GPU OpenCL](https://browser.geekbench.com/v5/compute/6087483)
+  - [GPU OpenCL](https://browser.geekbench.com/v5/compute/6087491)
   - [GPU Metal](https://browser.geekbench.com/v5/compute/6087483)
 
 - ### BlackMagic Disk Speed Test
